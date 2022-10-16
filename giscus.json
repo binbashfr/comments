@@ -1,6 +1,3 @@
 {
-  "origins": ["https://binbash.fr"],
-  "originsRegex": [
-    "http://localhost:1313"
-  ]
+  "origins": ["https://binbash.fr"]
 }
